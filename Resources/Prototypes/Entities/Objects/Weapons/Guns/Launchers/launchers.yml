@@ -66,7 +66,7 @@
   parent: [ BaseWeaponLauncher, BaseGunWieldable, BaseC3Contraband ] # Frontier: BaseMajorContraband<BaseC3SyndicateContraband
   id: WeaponLauncherHydra
   name: hydra
-  description: PLOOP... FSSSSSS
+  description: PLOOP... FSSSSSS...
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Launchers/hydra_launcher.rsi
